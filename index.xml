@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earth-PCC</title>
+    <link>https://earth-pcc.github.io/</link>
+    <description>Recent content on Earth-PCC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://earth-pcc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Earth-PCC 3月アップデート内容</title>
+      <link>https://earth-pcc.github.io/hello/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://earth-pcc.github.io/hello/</guid>
+      <description>こんにちは！ ３月にあったEarth-PCCのアップデート内容です。&#xA;アップデートしたこと&#xA;政治概念の追加 Webマップの追加 etc&amp;hellip; これからもEarth-PCCをよろしくお願いします。</description>
+    </item>
+    <item>
+      <title>Earth-PCC 3月アップデート内容</title>
+      <link>https://earth-pcc.github.io/hello2/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://earth-pcc.github.io/hello2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
